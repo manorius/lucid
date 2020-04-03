@@ -36,6 +36,8 @@ You can run the notebooks on your local machine, too. Clone the repository and f
 
 ## Tutorial Notebooks
 
+## GOOGLE COLAB IS USING TF 2 THE BELLOW EXAMPLES REQUIRE TF1 ADD THIS IN THE BEGINNING OF THE CODE: %tensorflow_version 1.x
+
 <a href="https://colab.research.google.com/github/tensorflow/lucid/blob/master/notebooks/tutorial.ipynb">
 <img src="https://storage.googleapis.com/lucid-static/common/stickers/colab-tutorial.png" width="500" alt=""></img>
 </a>
